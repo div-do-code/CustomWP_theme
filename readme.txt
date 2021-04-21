@@ -1,3 +1,5 @@
+This is a free template from colorlib, i tried to convert it into wordpress theme in order to practice
+
 For more awesome website templates make sure to visit https://colorlib.com
 
 All templates are licensed under the Creative Commons Attribution 3.0 license. https://creativecommons.org/licenses/by/3.0/
